@@ -1,0 +1,150 @@
+A = 0
+ q:: 
+ Send, Q
+ Sleep, A
+ Send {Space}
+ Return
+
+ w:: 
+ Send {W}
+ Sleep, A
+ Send {Space}
+ Return
+
+ e:: 
+ Send {E}
+ Sleep, A
+ Send {Space}
+ Return
+
+ t:: 
+ Send {T}
+ Sleep, A
+ Send {Space}
+ Return
+
+ y:: 
+ Send {Y}
+ Sleep, A
+ Send {Space}
+ Return
+
+ u:: 
+ Send {U}
+ Sleep, A
+ Send {Space}
+ Return
+
+ i:: 
+ Send {I}
+ Sleep, A
+ Send {Space}
+ Return
+
+ o:: 
+ Send {O}
+ Sleep, A
+ Send {Space}
+ Return
+  
+ p:: 
+ Send {P}
+ Sleep, A
+ Send {Space}
+ Return
+
+ a:: 
+ Send {A}
+ Sleep, A
+ Send {Space}
+ Return
+
+ s::  
+ Send {S}
+ Sleep, A
+ Send {Space}
+ Return
+
+ d:: 
+ Send {D}
+ Sleep, A
+ Send {Space}
+ Return
+ 
+ f:: 
+ Send {F}
+ Sleep, A
+ Send {Space}
+ Return
+
+ g:: 
+ Send {G}
+ Sleep, A
+ Send {Space}
+ Return
+
+ h:: 
+ Send {H}
+ Sleep, A
+ Send {Space}
+ Return
+
+ j:: 
+ Send {J}
+ Sleep, A
+ Send {Space}
+ Return
+  
+ k:: 
+ Send {K}
+ Sleep, A
+ Send {Space}
+ Return 
+
+ l:: 
+ Send {L}
+ Sleep, A
+ Send {Space}
+ Return
+
+ z:: 
+ Send {Z}
+ Sleep, A
+ Send {Space}
+ Return
+
+ x:: 
+ Send {X}
+ Sleep, A
+ Send {Space}
+ Return
+
+ c:: 
+ Send {C}
+ Sleep, A
+ Send {Space}
+ Return
+
+ v:: 
+ Send {V}
+ Sleep, A
+ Send {Space}
+ Return 
+
+ b:: 
+ Send {B}
+ Sleep, A
+ Send {Space}
+ Return
+
+ n:: 
+ Send {N}
+ Sleep, A
+ Send {Space}
+ Return
+ 
+m:: 
+ Send {M}
+ Sleep, A
+ Send {Space}
+ Return
